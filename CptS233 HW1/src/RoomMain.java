@@ -3,7 +3,7 @@
 Name: Samul Zhang 
 CptS 233:MicroAssignment #1
 Date: 9/4/2020
-gitRepo url: https://github.com/SamZhang9120/HomeWork-1.git
+gitRepo url: https://github.com/SamZhang9120/HomeWork-1
  */
 import java.util.Scanner;
  
