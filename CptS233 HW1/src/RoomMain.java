@@ -26,7 +26,7 @@ public class RoomMain {
 
 	    	System.out.println(a.DimensionString());
 
-	    	System.out.println("The cost with these Dimensions will be " + a.getTotalCost());
+	    	System.out.println("The cost with these Dimensions will be " + a.getTotalCost() + "$");
 	  
 	    	
 	    	System.out.println();
